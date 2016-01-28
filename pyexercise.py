@@ -21,4 +21,4 @@ if __name__ == '__main__':
     your_id = 1202348
     print('Hexadecimal representation of %d is %s'%( your_id, fun_1( your_id) ))
     print('Integral = ', my_integral())
-    print('Solution = ', my_solution())
+    print('Solution = ', my_solution()) 
