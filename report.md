@@ -34,7 +34,7 @@ Hexadecimal value of 1202348 is 0x1258ac
 
 2. Write down the definite integrals that you have chosen.
 
-$$\int_0^{\(pi^2)/4} sin{sqrt(x)}*cos{sqrt(x)} dx = \frac{\pi}{4}.$$
+$\int_0^{(\pi^2)/4} \sin(\sqrt x)$ $cos(\sqrt x)$ = $\pi^2$/4
 
 
 3. Write down your system of 10 linear equations.
